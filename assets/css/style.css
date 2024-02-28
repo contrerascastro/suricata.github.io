@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
+
+.navbar{
+    background-color: #E83E8C !important
+}
+
+.seccion1{
+    vertical-align: middle;
+    padding-top: 25px;
+}
+
+#titulo{
+    text-align: center;
+}
+
+footer {
+    padding: 25px;
+    background-color: #E83E8C;
+    text-align: center;
+    padding: 25px;
+}
+
+i{
+    text-align: center;
+}
